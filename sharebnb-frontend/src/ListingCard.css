@@ -1,0 +1,12 @@
+.ListingCard {
+
+  display: flex;
+  margin: 10px;
+  width: 500px;
+  height: 500px;
+}
+
+.ListingCard:hover {
+  background-color: rgb(238, 238, 238);
+  box-shadow: 0.3rem 0.4rem rgba(0, 0, 0, 0.05);
+}

@@ -1,0 +1,27 @@
+.ListingForm {
+  margin-top: 75px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ListingForm-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+}
+
+.ListingForm-photoFile {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.form-control {
+  width: 400px;
+}
+
+.ListingForm-listedBy {
+  display: none;
+}
